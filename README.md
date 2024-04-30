@@ -16,3 +16,5 @@ El formulario de registro puede ser utilizado en una variedad de aplicaciones y 
 5. Plataformas de e-learning: En las plataformas de aprendizaje en línea, los estudiantes suelen tener que registrarse para acceder a cursos, realizar un seguimiento de su progreso y participar en actividades de aprendizaje.
 
 6. Sistemas de gestión de relaciones con el cliente (CRM): Los sistemas CRM suelen requerir registros para que los usuarios puedan acceder a información de clientes, gestionar contactos, seguimientos de ventas, etc.
+
+Aquí hay un video de cómo funciona: https://youtu.be/0ew4C4-hZe8
